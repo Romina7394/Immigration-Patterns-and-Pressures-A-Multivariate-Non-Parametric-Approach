@@ -87,3 +87,4 @@ ggplot(df, aes(x = HumanRights, y = BrainDrain)) +
        x = "Human Rights",
        y = "Brain Drain") +
   theme_minimal()
+
