@@ -80,6 +80,9 @@ If you use this project, please cite it as:
 }
 
 ---
+📜 License
+
+MIT License (see the LICENSE file).
 
 ## 📄 `.gitignore`
 
